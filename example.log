@@ -1,0 +1,218 @@
+2017-06-17 09:18:14,253 INFO Reading the source and destination details started
+2017-06-17 09:51:35,384 INFO Reading the source and destination details started
+2017-06-17 09:52:22,747 INFO ID check initiated
+2017-06-17 09:52:22,759 INFO Trying to login to the source server
+2017-06-17 09:52:22,762 DEBUG Starting new HTTP connection (1): bh-61.webhostbox.net
+2017-06-17 09:52:29,581 DEBUG http://bh-61.webhostbox.net:2082 "GET /frontend/paper_lantern/backup/dofullbackup.html HTTP/1.1" 200 7591
+2017-06-17 09:52:29,583 INFO Backup Initiated
+2017-06-17 09:52:29,583 INFO Finding the backup file which we have generated
+2017-06-17 09:55:22,965 INFO Reading the source and destination details started
+2017-06-17 09:55:42,479 INFO Reading the source and destination details started
+2017-06-17 09:56:23,098 INFO ID check initiated
+2017-06-17 09:56:23,121 INFO Trying to login to the source server
+2017-06-17 09:56:23,126 DEBUG Starting new HTTP connection (1): bh-61.webhostbox.net
+2017-06-17 09:56:27,624 DEBUG http://bh-61.webhostbox.net:2082 "GET /frontend/paper_lantern/backup/dofullbackup.html HTTP/1.1" 200 7575
+2017-06-17 09:56:27,627 INFO Backup Initiated
+2017-06-17 09:56:27,627 INFO Finding the backup file which we have generated
+2017-06-17 09:57:55,976 INFO Reading the source and destination details started
+2017-06-17 09:58:24,793 INFO ID check initiated
+2017-06-17 09:58:24,819 INFO Trying to login to the source server
+2017-06-17 09:58:24,825 DEBUG Starting new HTTP connection (1): bh-62.webhostbox.net
+2017-06-17 09:58:30,815 DEBUG http://bh-62.webhostbox.net:2082 "GET /frontend/paper_lantern/backup/dofullbackup.html HTTP/1.1" 200 7571
+2017-06-17 09:58:30,817 INFO Backup Initiated
+2017-06-17 09:58:30,817 INFO Finding the backup file which we have generated
+2017-06-17 09:59:45,069 INFO Reading the source and destination details started
+2017-06-17 10:00:06,469 INFO Reading the source and destination details started
+2017-06-17 10:00:33,705 INFO ID check initiated
+2017-06-17 10:00:33,719 INFO Trying to login to the source server
+2017-06-17 10:00:33,722 DEBUG Starting new HTTP connection (1): bh-61.webhostbox.net
+2017-06-17 10:00:40,344 DEBUG http://bh-61.webhostbox.net:2082 "GET /frontend/paper_lantern/backup/dofullbackup.html HTTP/1.1" 200 7579
+2017-06-17 10:00:40,345 INFO Backup Initiated
+2017-06-17 10:00:40,345 INFO Finding the backup file which we have generated
+2017-06-17 10:02:40,125 INFO Reading the source and destination details started
+2017-06-17 10:03:05,881 INFO ID check initiated
+2017-06-17 10:03:05,918 INFO Trying to login to the source server
+2017-06-17 10:03:05,925 DEBUG Starting new HTTP connection (1): bh-61.webhostbox.net
+2017-06-17 10:03:10,755 DEBUG http://bh-61.webhostbox.net:2082 "GET /frontend/paper_lantern/backup/dofullbackup.html HTTP/1.1" 200 7563
+2017-06-17 10:03:10,757 INFO Backup Initiated
+2017-06-17 10:03:10,757 INFO Finding the backup file which we have generated
+2017-06-17 10:05:35,877 INFO Reading the source and destination details started
+2017-06-17 10:05:58,125 INFO ID check initiated
+2017-06-17 10:05:58,155 INFO Trying to login to the source server
+2017-06-17 10:05:58,163 DEBUG Starting new HTTP connection (1): bh-61.webhostbox.net
+2017-06-17 10:06:03,798 DEBUG http://bh-61.webhostbox.net:2082 "GET /frontend/paper_lantern/backup/dofullbackup.html HTTP/1.1" 200 7589
+2017-06-17 10:06:03,799 INFO Backup Initiated
+2017-06-17 10:06:03,799 INFO Finding the backup file which we have generated
+2017-06-17 10:07:06,856 INFO Reading the source and destination details started
+2017-06-17 10:07:43,467 INFO ID check initiated
+2017-06-17 10:07:43,512 INFO Trying to login to the source server
+2017-06-17 10:07:43,514 DEBUG Starting new HTTP connection (1): bh-61.webhostbox.net
+2017-06-17 10:07:49,106 DEBUG http://bh-61.webhostbox.net:2082 "GET /frontend/paper_lantern/backup/dofullbackup.html HTTP/1.1" 200 7575
+2017-06-17 10:07:49,108 INFO Backup Initiated
+2017-06-17 10:07:49,109 INFO Finding the backup file which we have generated
+2017-06-17 10:11:35,272 INFO Reading the source and destination details started
+2017-06-17 10:12:03,603 INFO ID check initiated
+2017-06-17 10:12:03,628 INFO Trying to login to the source server
+2017-06-17 10:12:03,633 DEBUG Starting new HTTP connection (1): bh-61.webhostbox.net
+2017-06-17 10:12:10,463 DEBUG http://bh-61.webhostbox.net:2082 "GET /frontend/paper_lantern/backup/dofullbackup.html HTTP/1.1" 200 7582
+2017-06-17 10:12:10,466 INFO Backup Initiated
+2017-06-17 10:12:10,466 INFO Finding the backup file which we have generated
+2017-06-17 10:15:09,000 INFO Reading the source and destination details started
+2017-06-17 10:15:43,400 INFO ID check initiated
+2017-06-17 10:15:43,413 INFO Trying to login to the source server
+2017-06-17 10:15:43,415 DEBUG Starting new HTTP connection (1): bh-61.webhostbox.net
+2017-06-17 10:15:47,865 DEBUG http://bh-61.webhostbox.net:2082 "GET /frontend/paper_lantern/backup/dofullbackup.html HTTP/1.1" 200 7574
+2017-06-17 10:15:47,867 INFO Backup Initiated
+2017-06-17 10:15:47,867 INFO Finding the backup file which we have generated
+2017-06-17 10:17:19,793 INFO Reading the source and destination details started
+2017-06-17 10:19:08,146 INFO Reading the source and destination details started
+2017-06-17 10:19:35,111 INFO ID check initiated
+2017-06-17 10:19:35,225 INFO Trying to login to the source server
+2017-06-17 10:19:35,230 DEBUG Starting new HTTP connection (1): bh-61.webhostbox.net
+2017-06-17 10:19:39,202 DEBUG http://bh-61.webhostbox.net:2082 "GET /frontend/paper_lantern/backup/dofullbackup.html HTTP/1.1" 200 7570
+2017-06-17 10:19:39,205 INFO Backup Initiated
+2017-06-17 10:19:39,205 INFO Finding the backup file which we have generated
+2017-06-17 12:03:57,483 INFO Reading the source and destination details started
+2017-06-17 12:05:05,715 INFO ID check initiated
+2017-06-17 12:05:05,757 INFO Trying to login to the source server
+2017-06-17 12:05:05,767 DEBUG Starting new HTTP connection (1): bh-61.webhostbox.net
+2017-06-17 12:05:12,423 DEBUG http://bh-61.webhostbox.net:2082 "GET /frontend/paper_lantern/backup/dofullbackup.html HTTP/1.1" 200 7575
+2017-06-17 12:05:12,425 INFO Backup Initiated
+2017-06-17 12:05:12,426 INFO Finding the backup file which we have generated
+2017-06-19 08:27:25,797 INFO Reading the source and destination details started
+2017-06-19 08:28:13,433 INFO ID check initiated
+2017-06-19 08:28:13,445 INFO Trying to login to the source server
+2017-06-19 08:28:13,447 DEBUG Starting new HTTP connection (1): bh-61.webhostbox.net
+2017-06-19 08:28:19,069 DEBUG http://bh-61.webhostbox.net:2082 "GET /frontend/paper_lantern/backup/dofullbackup.html HTTP/1.1" 200 7569
+2017-06-19 08:28:19,071 INFO Backup Initiated
+2017-06-19 08:28:19,072 INFO Finding the backup file which we have generated
+2017-07-24 13:10:58,059 INFO Reading the source and destination details started
+2017-07-24 13:14:16,538 INFO Reading the source and destination details started
+2017-07-24 13:15:18,529 INFO ID check initiated
+2017-07-24 13:15:18,548 INFO Trying to login to the source server
+2017-07-24 13:15:18,551 DEBUG Starting new HTTP connection (1): bh-61.webhostbox.net
+2017-07-24 13:15:19,778 DEBUG http://bh-61.webhostbox.net:2082 "GET /frontend/paper_lantern/backup/dofullbackup.html HTTP/1.1" 200 7879
+2017-07-24 13:15:19,781 INFO Backup Initiated
+2017-07-24 13:15:19,781 INFO Finding the backup file which we have generated
+2017-07-24 13:15:19,782 ERROR Error finding the backups
+2017-07-24 13:15:19,782 ERROR Error in the sleep loop for finding backups
+2017-07-24 13:15:19,782 INFO Renaming the file and moving to /home directory
+2017-07-24 13:15:19,783 ERROR Error in moving the backup
+2017-07-24 13:15:19,783 INFO Package account of the usermigrate11started
+2017-07-24 13:15:22,770 INFO Succesfully taken the backup
+2017-07-24 13:15:22,770 INFO Restoration Started
+2017-07-24 13:15:22,771 ERROR Error in Restoration of the account
+2017-07-24 13:15:22,771 INFO Restoration Completed
+2017-07-24 13:21:11,164 INFO Reading the source and destination details started
+2017-07-24 13:22:02,142 INFO ID check initiated
+2017-07-24 13:22:02,206 INFO Trying to login to the source server
+2017-07-24 13:22:02,214 DEBUG Starting new HTTP connection (1): bh-61.webhostbox.net
+2017-07-24 13:22:03,393 DEBUG http://bh-61.webhostbox.net:2082 "GET /frontend/paper_lantern/backup/dofullbackup.html HTTP/1.1" 200 7842
+2017-07-24 13:22:03,396 INFO Backup Initiated
+2017-07-24 13:22:03,396 INFO Finding the backup file which we have generated
+2017-07-24 13:22:50,221 INFO Renaming the file and moving to /home directory
+2017-07-24 13:22:50,231 INFO Package account of the usermigrate11started
+2017-07-24 13:22:52,064 INFO Succesfully taken the backup
+2017-07-24 13:22:52,064 INFO Restoration Started
+2017-07-24 13:23:05,519 INFO Restoration Completed
+2017-07-24 13:24:44,859 INFO Reading the source and destination details started
+2017-07-24 13:25:28,932 INFO ID check initiated
+2017-07-24 13:25:28,949 INFO Trying to login to the source server
+2017-07-24 13:25:28,953 DEBUG Starting new HTTP connection (1): bh-61.webhostbox.net
+2017-07-24 13:25:35,175 DEBUG http://bh-61.webhostbox.net:2082 "GET /frontend/paper_lantern/backup/dofullbackup.html HTTP/1.1" 200 7860
+2017-07-24 13:25:35,177 INFO Backup Initiated
+2017-07-24 13:25:35,178 INFO Finding the backup file which we have generated
+2017-07-24 13:50:30,334 INFO Reading the source and destination details started
+2017-07-24 13:52:10,930 INFO ID check initiated
+2017-07-24 13:52:10,952 INFO Trying to login to the source server
+2017-07-24 13:52:10,956 DEBUG Starting new HTTP connection (1): bh-61.webhostbox.net
+2017-07-24 13:52:12,242 DEBUG http://bh-61.webhostbox.net:2082 "GET /frontend/paper_lantern/backup/dofullbackup.html HTTP/1.1" 200 7844
+2017-07-24 13:52:12,244 INFO Backup Initiated
+2017-07-24 13:52:12,244 INFO Finding the backup file which we have generated
+2017-07-24 13:53:00,180 INFO Renaming the file and moving to /home directory
+2017-07-24 13:53:00,186 INFO Package account of the usermigrate11started
+2017-07-24 13:53:03,877 INFO Succesfully taken the backup
+2017-07-24 13:53:03,877 INFO Restoration Started
+2017-07-24 13:53:13,602 INFO Restoration Completed
+2017-07-24 14:21:05,970 INFO Reading the source and destination details started
+2017-07-24 14:22:55,083 INFO Reading the source and destination details started
+2017-07-24 14:23:43,478 INFO ID check initiated
+2017-07-24 14:23:43,492 INFO Trying to login to the source server
+2017-07-24 14:23:43,495 DEBUG Starting new HTTP connection (1): bh-61.webhostbox.net
+2017-07-24 14:23:50,107 DEBUG http://bh-61.webhostbox.net:2082 "GET /frontend/paper_lantern/backup/dofullbackup.html HTTP/1.1" 200 7859
+2017-07-24 14:23:50,110 INFO Backup Initiated
+2017-07-24 14:23:50,110 INFO Finding the backup file which we have generated
+2017-07-24 14:25:10,341 INFO Reading the source and destination details started
+2017-07-24 14:25:53,238 INFO ID check initiated
+2017-07-24 14:25:53,256 INFO Trying to login to the source server
+2017-07-24 14:25:53,260 DEBUG Starting new HTTP connection (1): bh-61.webhostbox.net
+2017-07-24 14:25:54,423 DEBUG http://bh-61.webhostbox.net:2082 "GET /frontend/paper_lantern/backup/dofullbackup.html HTTP/1.1" 200 7824
+2017-07-24 14:25:54,425 INFO Backup Initiated
+2017-07-24 14:25:54,425 INFO Finding the backup file which we have generated
+2017-07-24 14:26:42,298 INFO Renaming the file and moving to /home directory
+2017-07-24 14:26:42,300 INFO Package account of the usermigrate11started
+2017-07-24 14:26:45,278 INFO Succesfully taken the backup
+2017-07-24 14:26:45,278 INFO Restoration Started
+2017-07-24 14:26:54,097 INFO Restoration Completed
+2017-07-24 16:35:27,299 INFO Reading the source and destination details started
+2017-07-24 16:35:51,353 INFO Reading the source and destination details started
+2017-07-24 16:36:57,254 ERROR Error in reading the variables
+2017-07-24 16:36:57,255 INFO ID check initiated
+2017-07-24 16:36:57,283 INFO Trying to login to the source server
+2017-07-24 16:36:57,291 DEBUG Starting new HTTP connection (1): bh-61.webhostbox.net
+2017-07-24 16:36:58,425 DEBUG http://bh-61.webhostbox.net:2082 "GET /frontend/paper_lantern/backup/dofullbackup.html HTTP/1.1" 200 7837
+2017-07-24 16:36:58,427 INFO Backup Initiated
+2017-07-24 16:36:58,428 INFO Finding the backup file which we have generated
+2017-07-24 16:37:46,372 INFO Renaming the file and moving to /home directory
+2017-07-24 16:37:46,374 INFO Package account of the usermigrate11started
+2017-07-24 16:37:48,850 INFO Succesfully taken the backup
+2017-07-24 16:37:48,851 INFO Restoration Started
+2017-07-24 16:37:57,617 INFO Restoration Completed
+2017-07-25 08:27:02,306 INFO Reading the source and destination details started
+2017-07-25 08:27:58,908 ERROR Error in reading the variables
+2017-07-25 08:27:58,909 INFO ID check initiated
+2017-07-25 08:27:59,404 INFO Trying to login to the source server
+2017-07-25 08:27:59,407 DEBUG Starting new HTTP connection (1): bh-61.webhostbox.net
+2017-07-25 08:28:09,772 DEBUG http://bh-61.webhostbox.net:2082 "GET /frontend/paper_lantern/backup/dofullbackup.html HTTP/1.1" 200 7830
+2017-07-25 08:28:09,774 INFO Backup Initiated
+2017-07-25 08:28:09,774 INFO Finding the backup file which we have generated
+2017-07-25 08:28:29,690 INFO Renaming the file and moving to /home directory
+2017-07-25 08:28:30,010 INFO Package account of the usermigrate11started
+2017-07-25 08:29:30,019 INFO Succesfully taken the backup
+2017-07-25 08:29:30,019 INFO Restoration Started
+2017-07-25 08:34:01,672 INFO Restoration Completed
+2017-07-25 08:37:56,573 INFO Reading the source and destination details started
+2017-07-25 08:50:59,455 INFO Reading the source and destination details started
+2017-07-25 08:52:14,517 ERROR Error in reading the variables
+2017-07-25 08:52:14,517 INFO ID check initiated
+2017-07-25 08:52:14,885 INFO Trying to login to the source server
+2017-07-25 08:52:14,888 DEBUG Starting new HTTP connection (1): bh-61.webhostbox.net
+2017-07-25 08:52:22,309 DEBUG http://bh-61.webhostbox.net:2082 "GET /frontend/paper_lantern/backup/dofullbackup.html HTTP/1.1" 200 7855
+2017-07-25 08:52:22,310 INFO Backup Initiated
+2017-07-25 08:52:22,310 INFO Finding the backup file which we have generated
+2017-07-25 08:53:15,709 INFO Reading the source and destination details started
+2017-07-25 08:53:35,756 ERROR Error in reading the variables
+2017-07-25 08:53:35,757 INFO ID check initiated
+2017-07-25 08:53:35,780 INFO Trying to login to the source server
+2017-07-25 08:53:35,785 DEBUG Starting new HTTP connection (1): bh-61.webhostbox.net
+2017-07-25 08:53:36,229 DEBUG http://bh-61.webhostbox.net:2082 "GET /frontend/paper_lantern/backup/dofullbackup.html HTTP/1.1" 200 7858
+2017-07-25 08:53:36,231 INFO Backup Initiated
+2017-07-25 08:53:36,231 INFO Finding the backup file which we have generated
+2017-07-25 08:53:41,069 INFO Reading the source and destination details started
+2017-07-25 08:54:08,164 ERROR Error in reading the variables
+2017-07-25 08:54:08,165 INFO ID check initiated
+2017-07-25 08:54:08,545 INFO Trying to login to the source server
+2017-07-25 08:54:08,548 DEBUG Starting new HTTP connection (1): bh-61.webhostbox.net
+2017-07-25 08:54:13,228 INFO Reading the source and destination details started
+2017-07-25 08:55:11,539 ERROR Error in reading the variables
+2017-07-25 08:55:11,540 INFO ID check initiated
+2017-07-25 08:55:11,651 INFO Trying to login to the source server
+2017-07-25 08:55:11,655 DEBUG Starting new HTTP connection (1): bh-61.webhostbox.net
+2017-07-25 08:55:14,902 DEBUG http://bh-61.webhostbox.net:2082 "GET /frontend/paper_lantern/backup/dofullbackup.html HTTP/1.1" 200 7834
+2017-07-25 08:55:14,905 INFO Backup Initiated
+2017-07-25 08:55:14,922 INFO Finding the backup file which we have generated
+2017-07-25 08:55:34,187 INFO Renaming the file and moving to /home directory
+2017-07-25 08:55:34,309 INFO Package account of the usermigrate11started
+2017-07-25 08:56:19,743 INFO Succesfully taken the backup
+2017-07-25 08:56:19,743 INFO Restoration Started
+2017-07-25 08:58:43,352 INFO Restoration Completed
